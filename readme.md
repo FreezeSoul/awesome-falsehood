@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/kdeldycke/awesome-falsehood/">
-    <img src="./assets/awesome-falsehood-header.jpg" alt="Awesome Falsehood header image">
+    <img src="https://github.com/kdeldycke/awesome-falsehood/blob/master/assets/awesome-falsehood-header.jpg" alt="Awesome Falsehood header image">
   </a>
 </p>
 
@@ -12,7 +12,6 @@
   <i>The logic of the world is prior to all truth and falsehood.</i><br>
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
-
 
 *Falsehood* articles are a form of commentary on a particular subject, and are
 appreciated by the developer community at large for their effectiveness and
@@ -48,7 +47,6 @@ extensive edge-cases provided by real-world usage.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-
 ## Meta
 
 - [Falsehoods Programmers Believe](https://spaceninja.com/2015/12/07/falsehoods-programmers-believe/) - A
@@ -56,9 +54,8 @@ brief list of common falsehoods. A great overview and quick introduction into
 the world of falsehoods.
 - [Falsehoods About Programming](https://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html) - A
 humbling and fun list on programming and programmers themselves.
-- [Falsehoods About Falsehoods Lists](https://github.com/kdeldycke/kevin-deldycke-blog/blob/master/content/posts/falsehoods-programmers-believe-about-falsehoods-lists.md) - Meta
+- [Falsehoods About Falsehoods Lists](https://kevin.deldycke.com/2016/12/falsehoods-programmers-believe-about-falsehoods-lists/) - Meta
 commentary on how these falsehoods shouldn't be handled.
-
 
 ## Arts
 
@@ -66,7 +63,6 @@ commentary on how these falsehoods shouldn't be handled.
 assumption that might be made in codifying music.
 - [Falsehoods About Art](http://artsy.github.io/blog/2018/04/18/programmer-misconceptions-about-art/) - Common
 misconceptions about art.
-
 
 ## Business
 
@@ -86,7 +82,6 @@ validity date ranges overlap due to revolts, invasions, new constitutions, and
 slow planned adoption.
 - [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
 library.
-
 
 ## Dates and Time
 
@@ -130,14 +125,12 @@ Stack Overflow answer about both complicated historical timezones, and how
 historical dates can be re-interpreted by newer versions of software.
 - [Critical and Significant Dates](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) - From Y2K to the overflow of 32-bit seconds from unix epoch, a list of special date to watch for depending on the system.
 
-
 ## Education
 
 - [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - A
 list of things (not only) computer science students tend to erroneously and at
 times surprisingly believe even though they (probably) should know better.
 - [Postdoc myths](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/) - `Lots of things are said, written and believed about postdoctoral researchers that are simply not true.`.
-
 
 ## Emails
 
@@ -147,14 +140,12 @@ RFC-822.
 - [So you think you can validate email addresses (FOSDEM 2018)](https://fosdem.org/2018/schedule/event/email_address_quiz/) - Presentation
 of edge-case email addresses and why you should not use regex to parse them.
 
-
 ## Geography
 
 - [Falsehoods About Geography](http://wiesmann.codiferes.net/wordpress/?p=15187) - Takes
 on places, their names and locations.
 - [Falsehoods About Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - Covers
 coordinates, projection and GIS.
-
 
 ## Human Identity
 
@@ -184,7 +175,6 @@ flexible data model for representing human names.
 representations of the components of a person's name.
 - [Falsehoods About Me](https://skylarmacdonald.com/falsehoods/) - Issues at
 the intersection of names and gender and internationalization.
-
 
 ## Internationalization
 
@@ -217,19 +207,16 @@ huge corpus of strings which have a high probability of causing issues when
 used as user-input data. A must have set of practical edge-cases to test your
 software against.
 
-
 ## Management
 
 - [Falsehoods About Job Applicants](https://web.archive.org/web/20170114022820/https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616) - Assumptions
 about job applicants and their job histories aren't necessarily true.
-
 
 ## Multimedia
 
 - [Falsehoods About Video](https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html) - Cover
 it all: video decoding and playback, files, image scaling, color spaces and
 conversion, displays and subtitles.
-
 
 ## Networks
 
@@ -243,7 +230,6 @@ and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) either.
 - [`hostname-validate`](https://github.com/jakeogh/hostname-validate) - An
 attempt to validate hostnames in Python.
 
-
 ## Phone Numbers
 
 - [Falsehoods About Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers
@@ -256,7 +242,6 @@ international phone numbers. Also available for
 [Python](https://github.com/daviddrysdale/python-phonenumbers),
 [Ruby](https://github.com/sstephenson/global_phone) and
 [PHP](https://github.com/giggsey/libphonenumber-for-php).
-
 
 ## Postal Addresses
 
@@ -280,12 +265,10 @@ module to parse, normalize and render postal addresses.
 - [`address`](https://github.com/Boostport/address) - Go library to validate
 and format addresses using Google's dataset.
 
-
 ## Science
 
 - [Falsehoods About Systems of Measurement](https://www.stevemoser.org/posts/dev/falsehoods-programmers-believe-about-systems-of-measurement.html) - On
 working with systems of measurement and converting between them.
-
 
 ## Society
 
@@ -293,7 +276,6 @@ working with systems of measurement and converting between them.
 election systems has its own tricks.
 - [Falsehoods About Women In Tech](https://gist.github.com/Su-Shee/5d1a417fa9de19c15477) - Myth
 about women in STEM (Science, Technology, Engineering, Math) industries.
-
 
 ## Software Engineering
 
@@ -319,8 +301,9 @@ your pagination algorithm is giving someone (possibly you) a headache.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - Not
 falsehoods *per-se*, but still a great list of good practices to implement
 autocompletion.
-- [`9999999999999999.0` - `9999999999999998.0`](http://geocar.sdf1.org/numbers.html) - A
-kind of falsehood on numbers, and floats vs decimals.
+- [Floating Point Math](https://0.30000000000000004.com) - "Your language isn't
+broken, it's doing floating point math. (…) This is why, more often than
+not, `0.1 + 0.2 != 0.3`."
 - [Falsehoods About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) - Why
 search (including analysis, tokenization, highlighting) is deceptively complex.
 - [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk
@@ -334,7 +317,6 @@ concurrency and race conditions.
 - [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/) - Downloading that little icon you see in you browser tabs should be a simple exercise. It turned out to be a lot more complicated than you think. Be vigilant that you are not shaving a Yak.
 - [Norway is not False](https://mobile.twitter.com/chrisjrn/status/1232016100038266880) - Norway's ISO country code is also valid YAML for False.
 
-
 ## Typography
 
 - [Falsehoods About Fonts](https://github.com/RoelN/Font-Falsehoods) - Assumptions
@@ -343,12 +325,10 @@ about typography on the web and in desktop applications.
 complete reverse of the falsehoods format, on the topic of case (as in uppercase
 and lowercase text).
 
-
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the
-[contribution guidelines](./.github/contributing.md) first.
-
+[contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/master/.github/contributing.md) first.
 
 ## License
 
@@ -357,9 +337,11 @@ Content of this repository is licensed under the [Creative Commons CC0 license](
 To the extent possible under law, [Kevin Deldycke](https://kevin.deldycke.com)
 has waived all copyright and related or neighboring rights to this work.
 
-The [header image](./assets/awesome-falsehood-header.jpg) is based on a modified
+The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/master/assets/awesome-falsehood-header.jpg) is based on a modified
 [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg),
 distributed under a [Creative Commons BY-SA 2.0 UK
 license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
+
+## Footnotes
 
 <a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
